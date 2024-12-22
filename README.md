@@ -39,6 +39,7 @@ Usage
     Refresh the page to see your tasks persist.
 
 Screenshot
+![To-Do List Screenshot](images/screenshot.png)
 
 Contributing
 
